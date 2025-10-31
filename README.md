@@ -476,9 +476,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or feedback, please reach out:
 
-- **Email**: your.email@example.com
+- **Email**: yasserashraf3142@gmail.com
 - **LinkedIn**: [Yasser Ashraf](https://www.linkedin.com/in/yasserashraf/)
-- **GitHub**: [@Yasserashraf1](https://github.com/Yasserashraf1)
 
 **⭐ If you find this project helpful, please consider giving it a star!**
 
