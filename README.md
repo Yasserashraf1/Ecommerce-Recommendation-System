@@ -477,16 +477,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions or feedback, please reach out:
 
 - **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-
-## 📚 References
-
-1. Kula, M. (2015). "Metadata Embeddings for User and Item Cold-start Recommendations." arXiv:1507.08439
-2. Rendle, S., et al. (2009). "BPR: Bayesian Personalized Ranking from Implicit Feedback." UAI 2009
-3. He, X., et al. (2017). "Neural Collaborative Filtering." WWW 2017
-
----
+- **LinkedIn**: [Yasser Ashraf](https://www.linkedin.com/in/yasserashraf/)
+- **GitHub**: [@Yasserashraf1](https://github.com/Yasserashraf1)
 
 **⭐ If you find this project helpful, please consider giving it a star!**
 
